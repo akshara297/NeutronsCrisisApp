@@ -58,6 +58,6 @@ A React-based interface that loads in under 2 seconds, featuring:
 • [Your Name] - Lead Developer (CS 1st Year)
 • [Teammate Name] - [Role]
 • [Teammate Name] - [Role]
-Created for the [Insert Hackathon/College Event Name] - March 2026
+Created for the [Solution Challenge (Build with AI)] - March 2026
    ```bash
    git clone [https://github.com/](https://github.com/)[Your-Username]/team-neutrons-dashboard.git
