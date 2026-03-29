@@ -53,10 +53,14 @@ A React-based interface that loads in under 2 seconds, featuring:
 
 🗺️ Roadmap
 • [ ] PWA Support: Full offline installation for mobile devices.
+
 • [ ] IoT Integration: Connecting with smart building fire sensors.
+
 • [ ] Mesh Networking: Peer-to-peer status sharing without internet.
+
 👥 The Team: Team Neutrons
-• [Your Name] - Akshara (CS 1st Year)
+
+• [Your Name] - Akshara (CSAIML 1st Year)
+
 Created for the [Solution Challenge (Build with AI)] - March 2026
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/team-neutrons-dashboard.git
+ 
