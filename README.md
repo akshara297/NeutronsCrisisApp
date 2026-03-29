@@ -1,16 +1,50 @@
-# React + Vite
+# ⚛️ Team Neutrons: Rapid Crisis Response Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Real-time Emergency Navigation & Triage System
 
-Currently, two official plugins are available:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Overview
+The Neutrons Dashboard is a high-speed, utility-first web application designed for the "Golden Hour" of emergencies. Built by Team Neutrons, this tool prioritizes speed, persistence, and accessibility to provide critical navigation and life-saving instructions when every second counts.
 
-## React Compiler
+### 🚨 The Problem
+Traditional emergency apps are often bloated, slow to load, and lose user data during browser crashes or signal drops, leading to fatal delays in high-stress environments.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 💡 Our Solution
+A React-based interface that loads in under 2 seconds, featuring:
+- Zero-Latency Persistence: Auto-recovery of user identity via LocalStorage.
+- Live Geolocation: Real-time hardware GPS tracking and map rendering.
+- One-Tap SOS: Immediate full-screen emergency broadcast mode.
+- Offline Triage: Essential first-aid protocols stored locally for zero-signal areas.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- Frontend: React.js (Hooks, Functional Components)
+- Styling: Tailwind CSS (High-Contrast Accessibility)
+- APIs: Browser Geolocation API, Google Maps Embed API
+- State/Storage: React State Management & Web Storage API
+
+---
+
+## 🚀 Key Features
+* Persistent Identity: Remembers the user's name and status even after a refresh or crash.
+* Dynamic Emergency Mapping: Automatically fetches coordinates to show the user's exact location.
+* Safety Toggle: Quick "Safe/Unsafe" status update for responders.
+* Visual Fire Exit: Simplified, high-visibility directional navigation.
+* Integrated Triage: Step-by-step guides for Burns, Bleeding, and Fire Safety.
+
+---
+
+## 💻 Getting Started
+
+### Prerequisites
+- Node.js (v14.x or higher)
+- npm or yarn
+
+### Installation
+1. Clone the repository
+   ```bash
+   git clone [https://github.com/](https://github.com/)[Your-Username]/team-neutrons-dashboard.git
