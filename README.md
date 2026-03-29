@@ -50,14 +50,13 @@ A React-based interface that loads in under 2 seconds, featuring:
 3. npm install
 4. npm start
 5. npm run build
+
 🗺️ Roadmap
 • [ ] PWA Support: Full offline installation for mobile devices.
 • [ ] IoT Integration: Connecting with smart building fire sensors.
 • [ ] Mesh Networking: Peer-to-peer status sharing without internet.
 👥 The Team: Team Neutrons
-• [Your Name] - Lead Developer (CS 1st Year)
-• [Teammate Name] - [Role]
-• [Teammate Name] - [Role]
+• [Your Name] - Akshara (CS 1st Year)
 Created for the [Solution Challenge (Build with AI)] - March 2026
    ```bash
    git clone [https://github.com/](https://github.com/)[Your-Username]/team-neutrons-dashboard.git
