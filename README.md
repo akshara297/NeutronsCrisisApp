@@ -51,16 +51,3 @@ A React-based interface that loads in under 2 seconds, featuring:
 4. npm start
 5. npm run build
 
-🗺️ Roadmap
-• [ ] PWA Support: Full offline installation for mobile devices.
-
-• [ ] IoT Integration: Connecting with smart building fire sensors.
-
-• [ ] Mesh Networking: Peer-to-peer status sharing without internet.
-
-👥 The Team: Team Neutrons
-
-• [Your Name] - Akshara (CSAIML 1st Year)
-
-Created for the [Solution Challenge (Build with AI)] - March 2026
- 
